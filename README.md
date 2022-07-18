@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any open source projects
-- 📫 How to reach me tom@allenat.com
+- 📫 How to reach me allenctom@gmail.com
 
 <!---
 allen-tom/allen-tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
